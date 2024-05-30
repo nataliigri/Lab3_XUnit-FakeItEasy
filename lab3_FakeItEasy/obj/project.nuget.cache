@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDG/wRPhUNd54hqzf6iho/fMZ+3GWpFD0LtZ48vp3Lyt2Dqkt3ZDK/KgV7trJoKN4cF8nOmarNkYUri8+pFN8g==",
+  "success": true,
+  "projectFilePath": "/Users/nataliiagricisin/Documents/3 курс/II семестр/lab3_FakeItEasy/lab3_FakeItEasy/lab3_FakeItEasy.csproj",
+  "expectedPackageFiles": [
+    "/Users/nataliiagricisin/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/nataliiagricisin/.nuget/packages/fakeiteasy/8.2.0/fakeiteasy.8.2.0.nupkg.sha512",
+    "/Users/nataliiagricisin/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
